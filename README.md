@@ -10,4 +10,4 @@ Really, this game is horrible.
 
 # Play (?)
 
-Download the Zip file in the “Builds” folder.
+Download the Zip file in the “Mac” folder.
